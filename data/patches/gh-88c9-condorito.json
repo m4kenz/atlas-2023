@@ -1,0 +1,95 @@
+{
+	"id": -1,
+	"name": "condorito",
+	"description": "Condorito (Little Condor in Spanish) is a Chilean comic book and comic strip series that features an anthropomorphic condor living in a fictitious town named Pelotillehue, a typical small Chilean provincial town. He is meant to be a representation of the Chilean people.\n\nCondorito was first published on August 6, 1949, created by the Chilean cartoonist René Ríos, known as Pepo.[3] Condorito is very popular throughout Latin America, where the character is considered part of the general popular culture.[citation needed] Condorito and his friends appear in a daily comic strip.\n\nBy 2012, was read in 105 Spanish-language newspapers distributed in 19 countries, including Canada, United States, Italy, and Japan. 1,369 million of its comic strips are published annually, being together with Mafalda the most relevant Hispanic comic book character in the world.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Condorito"
+		],
+		"subreddit": [
+			"chile"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-962,
+				-831
+			],
+			[
+				-975,
+				-825
+			],
+			[
+				-994,
+				-809
+			],
+			[
+				-1001,
+				-784
+			],
+			[
+				-984,
+				-785
+			],
+			[
+				-979,
+				-784
+			],
+			[
+				-974,
+				-760
+			],
+			[
+				-970,
+				-756
+			],
+			[
+				-955,
+				-758
+			],
+			[
+				-952,
+				-758
+			],
+			[
+				-953,
+				-765
+			],
+			[
+				-959,
+				-765
+			],
+			[
+				-959,
+				-787
+			],
+			[
+				-938,
+				-796
+			],
+			[
+				-927,
+				-794
+			],
+			[
+				-924,
+				-798
+			],
+			[
+				-934,
+				-809
+			],
+			[
+				-952,
+				-817
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-968,
+			-804
+		]
+	}
+}
